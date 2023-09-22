@@ -1,16 +1,13 @@
 - 👋 Hi, I’m Firesolami
-- 👀 I’m interested in Scientific Computing, Web Development and Java App Development
+- 👀 I’m interested in Scientific Computing and Java App Development
 - 🌱 I’m currently learning
-- Android App Development using Android SDK and Java
-- Web development using React and Next.js
+- Android App Development using Android SDK and Kotlin
 - 🔧 Skills & Tools
 - Java
 - Python
 - C++
-- Javascript
 - 📫 How to reach me
 - oluwoleafolabi0@gmail.com
-- @oluwoleafolabi0
 - in/oluwole-afolabi-59340819a
 
 <!---
