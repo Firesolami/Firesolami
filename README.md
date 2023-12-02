@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Firesolami
-- 👀 I’m interested in Scientific Computing and Java App Development
-- 🌱 I’m currently learning
-- Android App Development using Android SDK and Kotlin
+- 👀 I’m interested in Backend development using Django.
+- 🌱 I’m currently learning about
+- Databases, APIs, Git
 - 🔧 Skills & Tools
 - Java
 - Python
