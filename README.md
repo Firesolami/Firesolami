@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwole
 - 👀 I’m interested in Backend development using Django.
 - 🌱 I’m currently learning about
-- Databases, APIs,DevOps
+- Databases, APIs, DevOps
 - 🔧 Skills & Tools
 - Javascript
 - Python
