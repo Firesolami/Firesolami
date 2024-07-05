@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Firesolami
+- 👋 Hi, I’m Oluwole
 - 👀 I’m interested in Backend development using Django.
 - 🌱 I’m currently learning about
 - Databases, APIs,DevOps
