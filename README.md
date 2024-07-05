@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Firesolami
 - 👀 I’m interested in Backend development using Django.
 - 🌱 I’m currently learning about
-- Databases, APIs, Git
+- Databases, APIs,DevOps
 - 🔧 Skills & Tools
-- Java
+- Javascript
 - Python
 - C++
 - 📫 How to reach me
 - oluwoleafolabi0@gmail.com
-- in/oluwole-afolabi-59340819a
+- in/oluwoleafolabi
 
 <!---
 Firesolami/Firesolami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
