@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.github.com/firesolami">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firesolami&theme=react&show_icons=true&locale=en" alt="firesolami" height="180" width="400"/>
   </a>
