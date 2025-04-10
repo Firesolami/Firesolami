@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/oluwoleafolabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwoleafolabi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Oluwole_ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Oluwole_ao" height="30" width="40" /></a>
 </p>
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -61,4 +61,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.github.com/firesolami">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firesolami&theme=react&show_icons=true&locale=en" alt="firesolami" height="180" width="400"/>
   </a>
-</p>
+</p> -->
