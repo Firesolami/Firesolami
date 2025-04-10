@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I'm Oluwole</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Firesolami/Firesolami/main/oluwole.gif" alt="Oluwole" />
+</h1>
 
 <p align="center">I’m interested in backend engineering using Django and Node.js/Express.</p>
 <p align="center">Let's connect: <a href="mailto:oluwoleafolabi0@gmail.com">oluwoleafolabi0@gmail.com</a> !</p>
