@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Firesolami/Firesolami/main/oluwole.gif" alt="Oluwole" />
+  <img src="https://raw.githubusercontent.com/Firesolami/Firesolami/main/oluwole2.gif" alt="Oluwole" />
 </h1>
 
 <p align="center">I’m interested in backend development with Django and Node.js frameworks.</p>
