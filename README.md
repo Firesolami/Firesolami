@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://twitter.com/oluwoleao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/sojijr/portfolio/bf230724258eb19ffe3ca311935f2f8f3b5ce140/public/images/x.svg" alt="oluwoleao_" height="28" width="40" /></a>
 <a href="https://linkedin.com/in/oluwoleafolabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwoleafolabi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Oluwole_ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Oluwole_ao" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/oluwole_ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oluwole_ao" height="30" width="40" /></a>
 </p>
 <!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center">
