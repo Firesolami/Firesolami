@@ -4,6 +4,7 @@
 </h1>
 
 <p align="center">I’m interested in backend development with Django and Node.js frameworks.</p>
+<p align="center">A lot of my work's on GitLab unfortunately</p>
 <p align="center">Let's connect: <a href="mailto:oluwoleafolabi0@gmail.com">oluwoleafolabi0@gmail.com</a> !</p>
 
 
